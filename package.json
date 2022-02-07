@@ -1,0 +1,16 @@
+{
+    "name": "vietnam-cities-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "json-server,heroku, node, REST API"
+    ],
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}
